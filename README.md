@@ -1,3 +1,3 @@
 # login
-
-sql файл засунуть в файл xampp - htdocs - pythonprojects
+localhost
+sql файл засунуть в паку xampp - htdocs - pythonprojects
